@@ -1,0 +1,27 @@
+body{
+	background-color:#333;
+}
+	h2,h3{
+		color:#FFF;
+		text-align:center;
+		}
+
+.container-fluid{
+	}
+
+.trompos{
+	float:right;
+	}
+.gamas{
+	float:left;
+	}
+	
+.table-bordered{
+	width:500px;
+	
+	}
+	
+.well{
+	width:500px;	
+	margin-top:250px;	
+	}

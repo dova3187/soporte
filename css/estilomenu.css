@@ -1,0 +1,44 @@
+ body{
+	background-color:#333;
+     }
+.container .navbar .container {
+  width: auto;
+	}
+.active item{
+	width:200px;
+	height:200px;
+	}
+.span4{
+	font color;black;
+}
+
+.row{
+	margin-left:200px
+}
+.item{
+	width:650px;
+	height:400px;
+	}
+#footer{
+	background-color:#333;
+	text-align:center;
+	color:black;
+	margin-top:34px; 
+	}	
+hr{
+	color:navy;
+	}
+.span4{
+	color:#FFF;
+	width:auto;	
+	}
+.sistemas{
+	width:200px;}
+.hero-unit{
+	height:350px;
+	}
+
+a:link {
+		color:white;
+	}
+	

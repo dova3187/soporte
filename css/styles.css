@@ -1,0 +1,42 @@
+/* CSS Document */
+body{
+	background: #e1e4d2 center no-repeat;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+            }
+
+#contenido{
+	font-size:15px;
+	float:none;
+	height: 500px;
+	top: 15px;
+}
+
+#derecho{
+	width:240px;
+	float:right;
+	display:inline;
+	margin-right: 74px;
+	margin-bottom: 0;
+	margin-left: 20px;
+}
+#folio{
+		width:20px;
+	float:right;
+	display:inline;
+	margin-top: 0;
+	margin-right: 60px;
+	margin-bottom: 0;
+	margin-right: 40px;
+}
+#imagenes{
+	width:400px;
+	display:inline;
+	margin-top:0px;
+}
+#gamas{
+float:right;
+}
+#trompos{
+	float:right;
+	} 

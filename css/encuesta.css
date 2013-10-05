@@ -1,0 +1,28 @@
+ body{
+	background-color:#333;
+     }
+.container .navbar .container {
+  width: auto;
+	}
+.container-fluid{
+	margin:auto;
+	width:700px;
+	}
+	.hero-unit{
+	width:700px;
+	height:700px;
+}
+.active item{
+	width:200px;
+	height:200px;
+	}
+.item{
+	width:650px;
+	height:400px;
+	}
+#footer{
+	background-color:black;
+	clear:both;
+	text-align:center;
+	margin-top:196px;
+	}
